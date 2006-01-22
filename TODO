@@ -1,0 +1,3 @@
+Fatal/Terminal signals need to destruct sessions.
+Exceptions need to be folded into here as well.
+ASSERT_USAGE (possibly can steal the checks directly from POE)

@@ -1,0 +1,15 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         HOE
+version:      0.00_01
+version_from: lib/HOE.pm
+installdirs:  site
+requires:
+    Carp:                          0
+    Errno:                         0
+    POSIX:                         0
+    Time::HiRes:                   0
+    WeakRef:                       0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17
